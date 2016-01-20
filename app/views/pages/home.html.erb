@@ -1,14 +1,458 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE html>
 <html lang="en">
   <head>
-	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	  <title>home.html</title>
-	  <%= javascript_include_tag :defaults %>
-	  <%= yield :head %>
+    <title>AD.Beverly</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700|Oxygen:400,700,300' rel='stylesheet' type='text/css'>
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"
+    <link href="http://pingendo.github.io/pingendo-bootstrap/themes/default/bootstrap.css" rel="stylesheet" type="text/css">
   </head>
-  <body>
-  	<h2>Home Page</h2>
-  <%= yield %>
+
+  <body id="myPage" data-spy="scroll" data-target=".navbar" data-offset="50">
+
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <!-- <a class="navbar-brand" href="#myPage"> Beverly Assembly of God</a> -->
+        <%= image_tag asset_path("logo.jpg"), alt: 'ADBeverly', size: '55x55' %>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <a href="#myPage">HOME</a>
+            </li>
+            <li>
+              <a href="#church">CHURCH</a>
+            </li>
+            <li>
+              <a href="#tour">EVENTS</a>
+            </li>
+            <li>
+              <a href="#contact">CONTACT</a>
+            </li>
+            <li class="dropdown">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li>
+                  <a href="#">Merchandise</a>
+                </li>
+                <li>
+                  <a href="#">Extras</a>
+                </li>
+                <li>
+                  <a href="#">Media</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#"><span class="glyphicon glyphicon-search"></span></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <%= image_tag asset_path("wave01-60p.jpg"), alt: 'There is no Limit', size: '1200x700' %>
+          <div class="carousel-caption">
+            <h3>There is no limit!</h3>
+            <p>
+              Therefore we will not fear, though the earth give way and the mountains fall into the heart of the sea...
+              Psalm 46:2
+            </p>
+          </div>
+        </div>
+
+        <div class="item">
+          <%= image_tag asset_path("freedon01-60p.jpg"), alt: 'Be Free', size: '1200x700' %>
+          <div class="carousel-caption">
+            <h3>Be free!</h3>
+            <p>
+              For freedom did Christ set us free: stand fast therefore, and be not entangled again in a yoke of bondage.<br />
+Galatians 5:1
+            </p>
+          </div>
+        </div>
+
+        <div class="item">
+          <%= image_tag asset_path("mountain01.jpg"), alt: 'Los Angeles', size: '1200x700' %>
+          <div class="carousel-caption">
+            <h3>He is able!</h3>
+            <p>
+               I lift up my eyes to the mountains — where does my help come from?<br />
+               Psalm 121:1
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Left and right controls -->
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"> <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only">Next</span> </a>
+    </div>
+
+    <!-- Container (The Church Section) -->
+    <div id="church" class="container text-center">
+      <h3>THE CHURCH</h3>
+      <p>
+        <em>We love the gospel!</em>
+      </p>
+      <p>
+        We believe that the Church, the Body of Christ, is a spiritual organism made up of all believers of this present age (1 Corinthians 12:12-14; 2 Corinthians 11:2; Ephesians 1:22-23, 5:25-27). We believe in the ordinances of believer’s water baptism by immersion as a testimony to Christ and identification with Him, and the Lord’s Supper as a remembrance of Christ’s death and shed blood (Matthew 28:19-20; Acts 2:41-42, 18:8; 1 Corinthians 11:23-26). Through the church, believers are to be taught to obey the Lord and to testify concerning their faith in Christ as Savior and to honor Him by holy living. We believe in the Great Commission as the primary mission of the Church. It is the obligation of all believers to witness, by word and life, to the truths of God’s Word. The gospel of the grace of God is to be preached to all the world (Matthew 28:19-20; Acts 1:8; 2 Corinthians 5:19-20).
+      </p>
+      <br>
+      <div class="row">
+      	
+        <div class="col-sm-4">
+          <p class="text-center">
+            <strong>Reach</strong>
+          </p>
+          <a href="#demo1" data-toggle="collapse"> <%= image_tag asset_path("reach01.jpg"), :class => 'img-circle person', alt: 'Random Name', :width => 255, :height => 255 %> </a>
+
+          <div id="demo1" class="collapse">
+            <p>
+              Reach people,
+            </p>
+            <p>
+              Get close,
+            </p>
+            <p>
+              Show the hope.
+            </p>
+          </div>
+        </div>
+        
+        <div class="col-sm-4">
+          <p class="text-center">
+            <strong>Grow</strong>
+          </p>
+          <a href="#demo2" data-toggle="collapse"> <%= image_tag asset_path("bible_n_prayer.jpg"), :class => 'img-circle person', alt: 'Random Name', :width => 255, :height => 255 %> </a>
+
+          <div id="demo2" class="collapse">
+            <p>
+              Know the truth,
+            </p>
+            <p>
+              Grow through
+            </p>
+            <p>
+              the word of god.
+            </p>
+          </div>
+        </div>
+        
+        <div class="col-sm-4">
+          <p class="text-center">
+            <strong>Serve</strong>
+          </p>
+          <a href="#demo3" data-toggle="collapse"> <%= image_tag asset_path("serve01.jpg"), :class => 'img-circle person', alt: 'Random Name', :width => 255, :height => 255 %> </a>
+          <div id="demo3" class="collapse">
+            <p>
+              Serve God
+            </p>
+            <p>
+              by serving
+            </p>
+            <p>
+              the peaple.
+            </p>
+          </div>
+        </div>
+      
+      </div>
+    </div>
+
+    <!-- Container (TOUR Section) -->
+    <div id="tour" class="bg-1">
+      <div class="container">
+        <h3 class="text-center">UPCOMING EVENTS</h3>
+        <p class="text-center color-white">
+          We invite you to join us for the upcoming events.
+          <br>
+          Take a look into our agenda!
+          <br>
+          <br>
+        </p>
+        <!--
+        <ul class="list-group">
+          <li class="list-group-item">
+            September <span class="label label-danger">Sold Out!</span>
+          </li>
+          <li class="list-group-item">
+            October <span class="label label-danger">Sold Out!</span>
+          </li>
+          <li class="list-group-item">
+            November <span class="badge">3</span>
+          </li>
+        </ul>
+		-->
+        <div class="row text-center">
+          <div class="col-sm-4">
+            <div class="thumbnail">
+              <%= image_tag asset_path("cup-of-tea.jpg"), alt: 'Paris', :width => 400, :height => 300 %>
+              <p>
+                <strong>Women's Tea</strong>
+              </p>
+              <p>
+                Saturday 19 December 2015
+              </p>
+              <button class="btn" data-toggle="modal" data-target="#myModal">
+                Done
+              </button>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="thumbnail">
+              <%= image_tag asset_path("christmas_cross.jpg"), alt: 'New York', :width => 400, :height => 300 %>
+              <p>
+                <strong>Christmas Service</strong>
+              </p>
+              <p>
+                Sunday 20 December 2015
+              </p>
+              <button class="btn" data-toggle="modal" data-target="#myModal">
+                Done
+              </button>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="thumbnail">
+              <%= image_tag asset_path("Tabernacle.jpg"), alt: 'San Francisco', :width => 400, :height => 300 %>
+              <p>
+                <strong>The Tabernacle of David</strong>
+              </p>
+              <p>
+                Friday 22 January 2016
+              </p>
+              <button class="btn" data-toggle="modal" data-target="#myModal">
+                Upcoming
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Modal -->
+      <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">
+                &times;
+              </button>
+              <h4><span class="glyphicon glyphicon-lock"></span> Tickets</h4>
+            </div>
+            <div class="modal-body">
+              <form role="form">
+                <div class="form-group">
+                  <label for="psw"><span class="glyphicon glyphicon-shopping-cart"></span> Tickets, $23 per person</label>
+                  <input type="number" class="form-control" id="psw" placeholder="How many?">
+                </div>
+                <div class="form-group">
+                  <label for="usrname"><span class="glyphicon glyphicon-user"></span> Send To</label>
+                  <input type="text" class="form-control" id="usrname" placeholder="Enter email">
+                </div>
+                <button type="submit" class="btn btn-block">
+                  Pay <span class="glyphicon glyphicon-ok"></span>
+                </button>
+              </form>
+            </div>
+            <div class="modal-footer">
+              <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+                <span class="glyphicon glyphicon-remove"></span> Cancel
+              </button>
+              <p>
+                Need <a href="#">help?</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+      
+    <!-- Container (Testimonials Section) -->
+    <div id="testimonials" class="container">
+      <h3 class="text-center">TESTIMONIALS</h3>
+      
+      <p class="text-center">
+      	To God all the glory. For all you have added in our lives. By his endless grace and love!
+      </p>
+      <br />
+      
+      <ul class="nav nav-tabs">
+        <li class="active">
+          <a data-toggle="tab" href="#home">Mike</a>
+        </li>
+        <li>
+          <a data-toggle="tab" href="#menu1">Chandler</a>
+        </li>
+        <li>
+          <a data-toggle="tab" href="#menu2">Peter</a>
+        </li>
+      </ul>
+
+      <div class="tab-content">
+        <div id="home" class="tab-pane fade in active">
+          <h2>Mike Ross</h2>
+          <p>
+            Man, we've been on the road for some time now. Looking forward to lorem ipsum. Looking forward to lorem ipsum. Man, we've been on the road for some time now. Looking forward to lorem ipsum. Man, we've been on the road for some time now.  
+          </p>
+          </div>
+        <div id="menu1" class="tab-pane fade">
+          <h2>Chandler Bing</h2>
+          <p>
+            Man, we've been on the road for some time now. Looking forward to lorem ipsum. Looking forward to lorem ipsum. Man, we've been on the road for some time now. Looking forward to lorem ipsum. Man, we've been on the road for some time now.  
+          </p>
+        </div>
+        <div id="menu2" class="tab-pane fade">
+          <h2>Peter Griffin</h2>
+          <p>
+            Man, we've been on the road for some time now. Looking forward to lorem ipsum. Looking forward to lorem ipsum. Man, we've been on the road for some time now. Looking forward to lorem ipsum. Man, we've been on the road for some time now.  
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Container (Contact Section) -->
+    <div id="contact" class="container">
+      <h3 class="text-center">CONTACT</h3>
+      <p class="text-center">
+        <em>Keep in touch. Send us a message!</em>
+      </p>
+      <br />
+      <div class="row">
+        <div class="col-md-4">
+          <p>
+            <span class="glyphicon glyphicon-home"></span>Address: 3 Dolloff Ave 
+          </p>
+           <p>
+            <span class="glyphicon glyphicon-map-marker"></span>Beverly MA 01915
+          </p>
+          <p>
+            <span class="glyphicon glyphicon-phone"></span>Phone: (781) 775-0183
+          </p>
+          <p>
+            <span class="glyphicon glyphicon-envelope"></span>Email: mail@mail.com
+          </p>
+        </div>
+        <div class="col-md-8">
+          <div class="row">
+            <div class="col-sm-6 form-group">
+              <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+            </div>
+            <div class="col-sm-6 form-group">
+              <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+            </div>
+          </div>
+          <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea>
+          <br>
+          <div class="row">
+            <div class="col-md-12 form-group">
+              <button class="btn pull-right" type="submit">
+                Send
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br>
+      
+    </div>
+
+
+    <!-- Add Google Maps 
+    <div id="googleMap">
+    <script src="http://maps.googleapis.com/maps/api/js"></script>
+    <script>
+		var myCenter = new google.maps.LatLng(42.5500725,-70.8964268);
+
+		function initialize() {
+			var mapProp = {
+				center : myCenter,
+				zoom : 12,
+				scrollwheel : false,
+				draggable : false,
+				mapTypeId : google.maps.MapTypeId.ROADMAP
+			};
+
+			var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
+
+			var marker = new google.maps.Marker({
+				position : myCenter,
+			});
+
+			marker.setMap(map);
+		}
+
+
+		google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+    </div>
+-->
+
+    <!-- Footer -->
+    <footer class="text-center">
+      <a class="up-arrow" href="#myPage" data-toggle="tooltip" title="TO TOP"> <span class="glyphicon glyphicon-chevron-up"></span> </a>
+      <br>
+      <br>
+      <p>
+        <span class="glyphicon glyphicon-home">© 2016 - All rights reserved. Web Dveloper: alexandre.webapps@gmail.com +1 781 731 3272 <a href="https://www.facebook.com/alexandre404" data-toggle="tooltip" title="Visit alexandre-guimaraes.com</a>
+      </p>
+      <div class="text-center">
+        <a href="#"><i class="fa fa-2x fa-fw fa-facebook text-inverse"></i></a>
+        <a href="#"><i class="fa fa-2x fa-fw fa-twitter text-inverse"></i></a>
+        <a href="#"><i class="fa fa-3x fa-fw hub text-inverse fa-youtube"></i></a>
+        <a href="#"><i class="fa fa-2x fa-fw fa-instagram text-inverse"></i></a>
+      </div>
+    </footer>
+
+    <script>
+		$(document).ready(function() {
+			// Initialize Tooltip
+			$('[data-toggle="tooltip"]').tooltip();
+
+			// Add smooth scrolling to all links in navbar + footer link
+			$(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+
+				// Prevent default anchor click behavior
+				event.preventDefault();
+
+				// Store hash
+				var hash = this.hash;
+
+				// Using jQuery's animate() method to add smooth page scroll
+				// The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+				$('html, body').animate({
+					scrollTop : $(hash).offset().top
+				}, 900, function() {
+
+					// Add hash (#) to URL when done scrolling (default click behavior)
+					window.location.hash = hash;
+				});
+			});
+		})
+    </script>
+
   </body>
+
 </html>
