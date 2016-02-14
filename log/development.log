@@ -38959,3 +38959,1227 @@ Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28
 
 
 Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-01-20 18:54:20 -0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-13 19:53:09 -0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (552.1ms)
+Completed 200 OK in 7051ms (Views: 7038.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/application.self-c871844313e12f14f06de6006410d56631dce960a847f948346483dbd73b84f9.css?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap/affix.self-f7aef9d98ee5ece34a6a92a6a15bba777d93e8d908b75c95a85088277f394200.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap/alert.self-896ab026e6823f5cef2441e07dac53d0692a5b772ac58b1ce20aa624c342d3f4.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-30536ae4d54b2685c26b5787ed0eb549a9075717fe690cce6270873bedf2df00.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap/collapse.self-93820e9b486e375a7fb4477602def3a6f8381fa6d50938d5378297ffbe4a1248.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap/button.self-d19f3e2bcd3a7a4d75c11b9141b3fabd2c11987da1e99c85548ec3ecf8db30c3.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap/carousel.self-b2e5e14483e6c31343a83861b7d487620f143d6fc2d07d5ae7544b6b225ba6be.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap/transition.self-9616c4e856b57659b67da3c6f2adcd584b5601ef4bebcdadab8ebb387d80bb25.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap/tab.self-9b77df34cbbb08ec93a806d6cdb741f04e3dbf3389978a0679146f2d2987bc89.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap/modal.self-bcfe54f3132bf16a8c5ce4289e47eba488f6522a08f49f378a037061c6c7aa4c.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-c5c6ed008955656d345067e9821d79f1216b8383134d08465d4aa1a33a2b93b4.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-3aa41fbe871573b34e0ebddf31598cd5a11a9841ca85f90934ea46326e46626d.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap/popover.self-b73e9c9111d01148e24bbc46e096782e024dc5db630e7078cf11ed2587ef8551.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-02-13 19:53:17 -0200
+
+
+Started GET "/assets/reach01-bd0c9d6bd60ac06f286fa4577d23147a7c358af56d6fc215721923f2af06455b.jpg" for 127.0.0.1 at 2016-02-13 19:56:49 -0200
+
+
+Started GET "/assets/mountain01-74d0d3a431ab88ede618c4b8518d69f5e5a326f6005302c1d70779f76b89870b.jpg" for 127.0.0.1 at 2016-02-13 19:56:49 -0200
+
+
+Started GET "/assets/logo-987383ad4c9b1e0a4777464a037e5e14ac772a092a3af78ada1b3076d0116be9.jpg" for 127.0.0.1 at 2016-02-13 19:56:49 -0200
+
+
+Started GET "/assets/bible_n_prayer-ea037e31cd963a0b0a8ad4718ac4feb4d58256bdac7e2e6e164a8a833a226461.jpg" for 127.0.0.1 at 2016-02-13 19:56:49 -0200
+
+
+Started GET "/assets/Tabernacle-937dcc06c13636c39de0d798ff4aed557ab71f9ede0cfc7a4fe57fa3d10bfc7a.jpg" for 127.0.0.1 at 2016-02-13 19:56:49 -0200
+
+
+Started GET "/assets/serve01-bfa0a3cf830d39c97d77426412d7bb807caa3c968f5857ab142317a1d3961ab1.jpg" for 127.0.0.1 at 2016-02-13 19:56:49 -0200
+
+
+Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28322b2b7dc2399f3cae237.jpg" for 127.0.0.1 at 2016-02-13 19:56:49 -0200
+
+
+Started GET "/assets/freedon01-60p-52b1d03ab5b7b1344c7d87f94d16a765ea4865a9636d64a7a6a16afa9abea88a.jpg" for 127.0.0.1 at 2016-02-13 19:56:49 -0200
+
+
+Started GET "/assets/message03-d8361a075ae8b86c8995b2ac0ceee563441b6ee4c776859f09c04e6e79b35685.jpg" for 127.0.0.1 at 2016-02-13 19:56:49 -0200
+
+
+Started GET "/assets/cup-of-tea-4b75703542b777437f0a31a6fd16f15815b97b6f8d8fd1f6b58310789918483f.jpg" for 127.0.0.1 at 2016-02-13 19:56:49 -0200
+
+
+Started GET "/assets/wave01-60p-c5fce455dfdc296e89f958c35abcf18b965869b5d6b7c831e35446b5ce659fca.jpg" for 127.0.0.1 at 2016-02-13 19:56:49 -0200
+
+
+Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-02-13 19:56:49 -0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-13 19:56:50 -0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (49.6ms)
+Completed 200 OK in 252ms (Views: 251.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-13 19:56:50 -0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:50 -0200
+
+
+Started GET "/assets/application.self-c871844313e12f14f06de6006410d56631dce960a847f948346483dbd73b84f9.css?body=1" for 127.0.0.1 at 2016-02-13 19:56:50 -0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:50 -0200
+
+
+Started GET "/assets/bootstrap/alert.self-896ab026e6823f5cef2441e07dac53d0692a5b772ac58b1ce20aa624c342d3f4.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:50 -0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:50 -0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:50 -0200
+
+
+Started GET "/assets/bootstrap/affix.self-f7aef9d98ee5ece34a6a92a6a15bba777d93e8d908b75c95a85088277f394200.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:50 -0200
+
+
+Started GET "/assets/bootstrap/button.self-d19f3e2bcd3a7a4d75c11b9141b3fabd2c11987da1e99c85548ec3ecf8db30c3.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:50 -0200
+
+
+Started GET "/assets/bootstrap/carousel.self-b2e5e14483e6c31343a83861b7d487620f143d6fc2d07d5ae7544b6b225ba6be.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:50 -0200
+
+
+Started GET "/assets/bootstrap/collapse.self-93820e9b486e375a7fb4477602def3a6f8381fa6d50938d5378297ffbe4a1248.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:51 -0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-30536ae4d54b2685c26b5787ed0eb549a9075717fe690cce6270873bedf2df00.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:51 -0200
+
+
+Started GET "/assets/bootstrap/tab.self-9b77df34cbbb08ec93a806d6cdb741f04e3dbf3389978a0679146f2d2987bc89.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:51 -0200
+
+
+Started GET "/assets/bootstrap/transition.self-9616c4e856b57659b67da3c6f2adcd584b5601ef4bebcdadab8ebb387d80bb25.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:51 -0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-c5c6ed008955656d345067e9821d79f1216b8383134d08465d4aa1a33a2b93b4.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:51 -0200
+
+
+Started GET "/assets/bootstrap/modal.self-bcfe54f3132bf16a8c5ce4289e47eba488f6522a08f49f378a037061c6c7aa4c.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:51 -0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-3aa41fbe871573b34e0ebddf31598cd5a11a9841ca85f90934ea46326e46626d.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:51 -0200
+
+
+Started GET "/assets/bootstrap/popover.self-b73e9c9111d01148e24bbc46e096782e024dc5db630e7078cf11ed2587ef8551.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:51 -0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:51 -0200
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2016-02-13 19:56:51 -0200
+
+
+Started GET "/assets/logo-987383ad4c9b1e0a4777464a037e5e14ac772a092a3af78ada1b3076d0116be9.jpg" for 127.0.0.1 at 2016-02-13 19:59:22 -0200
+
+
+Started GET "/assets/serve01-bfa0a3cf830d39c97d77426412d7bb807caa3c968f5857ab142317a1d3961ab1.jpg" for 127.0.0.1 at 2016-02-13 19:59:22 -0200
+
+
+Started GET "/assets/freedon01-60p-52b1d03ab5b7b1344c7d87f94d16a765ea4865a9636d64a7a6a16afa9abea88a.jpg" for 127.0.0.1 at 2016-02-13 19:59:22 -0200
+
+
+Started GET "/assets/reach01-bd0c9d6bd60ac06f286fa4577d23147a7c358af56d6fc215721923f2af06455b.jpg" for 127.0.0.1 at 2016-02-13 19:59:22 -0200
+
+
+Started GET "/assets/wave01-60p-c5fce455dfdc296e89f958c35abcf18b965869b5d6b7c831e35446b5ce659fca.jpg" for 127.0.0.1 at 2016-02-13 19:59:22 -0200
+
+
+Started GET "/assets/mountain01-74d0d3a431ab88ede618c4b8518d69f5e5a326f6005302c1d70779f76b89870b.jpg" for 127.0.0.1 at 2016-02-13 19:59:22 -0200
+
+
+Started GET "/assets/bible_n_prayer-ea037e31cd963a0b0a8ad4718ac4feb4d58256bdac7e2e6e164a8a833a226461.jpg" for 127.0.0.1 at 2016-02-13 19:59:22 -0200
+
+
+Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-02-13 19:59:22 -0200
+
+
+Started GET "/assets/message03-d8361a075ae8b86c8995b2ac0ceee563441b6ee4c776859f09c04e6e79b35685.jpg" for 127.0.0.1 at 2016-02-13 19:59:22 -0200
+
+
+Started GET "/assets/cup-of-tea-4b75703542b777437f0a31a6fd16f15815b97b6f8d8fd1f6b58310789918483f.jpg" for 127.0.0.1 at 2016-02-13 19:59:22 -0200
+
+
+Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28322b2b7dc2399f3cae237.jpg" for 127.0.0.1 at 2016-02-13 19:59:22 -0200
+
+
+Started GET "/assets/Tabernacle-937dcc06c13636c39de0d798ff4aed557ab71f9ede0cfc7a4fe57fa3d10bfc7a.jpg" for 127.0.0.1 at 2016-02-13 19:59:22 -0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (77.3ms)
+Completed 200 OK in 256ms (Views: 255.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/application.self-c871844313e12f14f06de6006410d56631dce960a847f948346483dbd73b84f9.css?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap/alert.self-896ab026e6823f5cef2441e07dac53d0692a5b772ac58b1ce20aa624c342d3f4.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap/affix.self-f7aef9d98ee5ece34a6a92a6a15bba777d93e8d908b75c95a85088277f394200.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-30536ae4d54b2685c26b5787ed0eb549a9075717fe690cce6270873bedf2df00.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap/collapse.self-93820e9b486e375a7fb4477602def3a6f8381fa6d50938d5378297ffbe4a1248.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap/button.self-d19f3e2bcd3a7a4d75c11b9141b3fabd2c11987da1e99c85548ec3ecf8db30c3.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap/carousel.self-b2e5e14483e6c31343a83861b7d487620f143d6fc2d07d5ae7544b6b225ba6be.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap/transition.self-9616c4e856b57659b67da3c6f2adcd584b5601ef4bebcdadab8ebb387d80bb25.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap/tab.self-9b77df34cbbb08ec93a806d6cdb741f04e3dbf3389978a0679146f2d2987bc89.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-c5c6ed008955656d345067e9821d79f1216b8383134d08465d4aa1a33a2b93b4.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap/modal.self-bcfe54f3132bf16a8c5ce4289e47eba488f6522a08f49f378a037061c6c7aa4c.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap/popover.self-b73e9c9111d01148e24bbc46e096782e024dc5db630e7078cf11ed2587ef8551.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-3aa41fbe871573b34e0ebddf31598cd5a11a9841ca85f90934ea46326e46626d.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2016-02-13 19:59:26 -0200
+
+
+Started GET "/assets/bible_n_prayer-ea037e31cd963a0b0a8ad4718ac4feb4d58256bdac7e2e6e164a8a833a226461.jpg" for 127.0.0.1 at 2016-02-13 19:59:35 -0200
+
+
+Started GET "/assets/reach01-bd0c9d6bd60ac06f286fa4577d23147a7c358af56d6fc215721923f2af06455b.jpg" for 127.0.0.1 at 2016-02-13 19:59:35 -0200
+
+
+Started GET "/assets/serve01-bfa0a3cf830d39c97d77426412d7bb807caa3c968f5857ab142317a1d3961ab1.jpg" for 127.0.0.1 at 2016-02-13 19:59:35 -0200
+
+
+Started GET "/assets/wave01-60p-c5fce455dfdc296e89f958c35abcf18b965869b5d6b7c831e35446b5ce659fca.jpg" for 127.0.0.1 at 2016-02-13 19:59:35 -0200
+
+
+Started GET "/assets/freedon01-60p-52b1d03ab5b7b1344c7d87f94d16a765ea4865a9636d64a7a6a16afa9abea88a.jpg" for 127.0.0.1 at 2016-02-13 19:59:35 -0200
+
+
+Started GET "/assets/logo-987383ad4c9b1e0a4777464a037e5e14ac772a092a3af78ada1b3076d0116be9.jpg" for 127.0.0.1 at 2016-02-13 19:59:35 -0200
+
+
+Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-02-13 19:59:35 -0200
+
+
+Started GET "/assets/mountain01-74d0d3a431ab88ede618c4b8518d69f5e5a326f6005302c1d70779f76b89870b.jpg" for 127.0.0.1 at 2016-02-13 19:59:35 -0200
+
+
+Started GET "/assets/cup-of-tea-4b75703542b777437f0a31a6fd16f15815b97b6f8d8fd1f6b58310789918483f.jpg" for 127.0.0.1 at 2016-02-13 19:59:35 -0200
+
+
+Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28322b2b7dc2399f3cae237.jpg" for 127.0.0.1 at 2016-02-13 19:59:35 -0200
+
+
+Started GET "/assets/Tabernacle-937dcc06c13636c39de0d798ff4aed557ab71f9ede0cfc7a4fe57fa3d10bfc7a.jpg" for 127.0.0.1 at 2016-02-13 19:59:35 -0200
+
+
+Started GET "/assets/message03-d8361a075ae8b86c8995b2ac0ceee563441b6ee4c776859f09c04e6e79b35685.jpg" for 127.0.0.1 at 2016-02-13 19:59:35 -0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-13 21:10:28 -0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (75.1ms)
+Completed 200 OK in 3339ms (Views: 3338.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/application.self-bbfcdf016e3c8974061c526fbff19242119f98da9f55166f6b5ee4f663acb6cb.css?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap/button.self-d19f3e2bcd3a7a4d75c11b9141b3fabd2c11987da1e99c85548ec3ecf8db30c3.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap/carousel.self-b2e5e14483e6c31343a83861b7d487620f143d6fc2d07d5ae7544b6b225ba6be.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap/collapse.self-93820e9b486e375a7fb4477602def3a6f8381fa6d50938d5378297ffbe4a1248.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-30536ae4d54b2685c26b5787ed0eb549a9075717fe690cce6270873bedf2df00.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap/affix.self-f7aef9d98ee5ece34a6a92a6a15bba777d93e8d908b75c95a85088277f394200.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap/tab.self-9b77df34cbbb08ec93a806d6cdb741f04e3dbf3389978a0679146f2d2987bc89.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap/alert.self-896ab026e6823f5cef2441e07dac53d0692a5b772ac58b1ce20aa624c342d3f4.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap/transition.self-9616c4e856b57659b67da3c6f2adcd584b5601ef4bebcdadab8ebb387d80bb25.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-c5c6ed008955656d345067e9821d79f1216b8383134d08465d4aa1a33a2b93b4.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-3aa41fbe871573b34e0ebddf31598cd5a11a9841ca85f90934ea46326e46626d.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap/popover.self-b73e9c9111d01148e24bbc46e096782e024dc5db630e7078cf11ed2587ef8551.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap/modal.self-bcfe54f3132bf16a8c5ce4289e47eba488f6522a08f49f378a037061c6c7aa4c.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/logo-987383ad4c9b1e0a4777464a037e5e14ac772a092a3af78ada1b3076d0116be9.jpg" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/freedon01-60p-52b1d03ab5b7b1344c7d87f94d16a765ea4865a9636d64a7a6a16afa9abea88a.jpg" for 127.0.0.1 at 2016-02-13 21:10:32 -0200
+
+
+Started GET "/assets/mountain01-74d0d3a431ab88ede618c4b8518d69f5e5a326f6005302c1d70779f76b89870b.jpg" for 127.0.0.1 at 2016-02-13 21:10:33 -0200
+
+
+Started GET "/assets/reach01-bd0c9d6bd60ac06f286fa4577d23147a7c358af56d6fc215721923f2af06455b.jpg" for 127.0.0.1 at 2016-02-13 21:10:33 -0200
+
+
+Started GET "/assets/bible_n_prayer-ea037e31cd963a0b0a8ad4718ac4feb4d58256bdac7e2e6e164a8a833a226461.jpg" for 127.0.0.1 at 2016-02-13 21:10:33 -0200
+
+
+Started GET "/assets/wave01-60p-c5fce455dfdc296e89f958c35abcf18b965869b5d6b7c831e35446b5ce659fca.jpg" for 127.0.0.1 at 2016-02-13 21:10:33 -0200
+
+
+Started GET "/assets/serve01-bfa0a3cf830d39c97d77426412d7bb807caa3c968f5857ab142317a1d3961ab1.jpg" for 127.0.0.1 at 2016-02-13 21:10:33 -0200
+
+
+Started GET "/assets/cup-of-tea-4b75703542b777437f0a31a6fd16f15815b97b6f8d8fd1f6b58310789918483f.jpg" for 127.0.0.1 at 2016-02-13 21:10:33 -0200
+
+
+Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28322b2b7dc2399f3cae237.jpg" for 127.0.0.1 at 2016-02-13 21:10:33 -0200
+
+
+Started GET "/assets/Tabernacle-937dcc06c13636c39de0d798ff4aed557ab71f9ede0cfc7a4fe57fa3d10bfc7a.jpg" for 127.0.0.1 at 2016-02-13 21:10:33 -0200
+
+
+Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-02-13 21:10:33 -0200
+
+
+Started GET "/assets/message03-d8361a075ae8b86c8995b2ac0ceee563441b6ee4c776859f09c04e6e79b35685.jpg" for 127.0.0.1 at 2016-02-13 21:10:33 -0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-13 21:13:26 -0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (121.2ms)
+Completed 200 OK in 4322ms (Views: 4320.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/application.self-643a535292b14e923a000b2c6791f9edfc78c2474948022733bb45d1fec8970e.css?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap/affix.self-f7aef9d98ee5ece34a6a92a6a15bba777d93e8d908b75c95a85088277f394200.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap/alert.self-896ab026e6823f5cef2441e07dac53d0692a5b772ac58b1ce20aa624c342d3f4.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap/button.self-d19f3e2bcd3a7a4d75c11b9141b3fabd2c11987da1e99c85548ec3ecf8db30c3.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap/collapse.self-93820e9b486e375a7fb4477602def3a6f8381fa6d50938d5378297ffbe4a1248.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap/carousel.self-b2e5e14483e6c31343a83861b7d487620f143d6fc2d07d5ae7544b6b225ba6be.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap/modal.self-bcfe54f3132bf16a8c5ce4289e47eba488f6522a08f49f378a037061c6c7aa4c.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap/transition.self-9616c4e856b57659b67da3c6f2adcd584b5601ef4bebcdadab8ebb387d80bb25.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-30536ae4d54b2685c26b5787ed0eb549a9075717fe690cce6270873bedf2df00.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-c5c6ed008955656d345067e9821d79f1216b8383134d08465d4aa1a33a2b93b4.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-3aa41fbe871573b34e0ebddf31598cd5a11a9841ca85f90934ea46326e46626d.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap/tab.self-9b77df34cbbb08ec93a806d6cdb741f04e3dbf3389978a0679146f2d2987bc89.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/bootstrap/popover.self-b73e9c9111d01148e24bbc46e096782e024dc5db630e7078cf11ed2587ef8551.js?body=1" for 127.0.0.1 at 2016-02-13 21:13:31 -0200
+
+
+Started GET "/assets/logo-987383ad4c9b1e0a4777464a037e5e14ac772a092a3af78ada1b3076d0116be9.jpg" for 127.0.0.1 at 2016-02-13 21:13:32 -0200
+
+
+Started GET "/assets/wave01-60p-c5fce455dfdc296e89f958c35abcf18b965869b5d6b7c831e35446b5ce659fca.jpg" for 127.0.0.1 at 2016-02-13 21:13:32 -0200
+
+
+Started GET "/assets/freedon01-60p-52b1d03ab5b7b1344c7d87f94d16a765ea4865a9636d64a7a6a16afa9abea88a.jpg" for 127.0.0.1 at 2016-02-13 21:13:32 -0200
+
+
+Started GET "/assets/mountain01-74d0d3a431ab88ede618c4b8518d69f5e5a326f6005302c1d70779f76b89870b.jpg" for 127.0.0.1 at 2016-02-13 21:13:32 -0200
+
+
+Started GET "/assets/bible_n_prayer-ea037e31cd963a0b0a8ad4718ac4feb4d58256bdac7e2e6e164a8a833a226461.jpg" for 127.0.0.1 at 2016-02-13 21:13:32 -0200
+
+
+Started GET "/assets/reach01-bd0c9d6bd60ac06f286fa4577d23147a7c358af56d6fc215721923f2af06455b.jpg" for 127.0.0.1 at 2016-02-13 21:13:32 -0200
+
+
+Started GET "/assets/serve01-bfa0a3cf830d39c97d77426412d7bb807caa3c968f5857ab142317a1d3961ab1.jpg" for 127.0.0.1 at 2016-02-13 21:13:32 -0200
+
+
+Started GET "/assets/Tabernacle-937dcc06c13636c39de0d798ff4aed557ab71f9ede0cfc7a4fe57fa3d10bfc7a.jpg" for 127.0.0.1 at 2016-02-13 21:13:32 -0200
+
+
+Started GET "/assets/cup-of-tea-4b75703542b777437f0a31a6fd16f15815b97b6f8d8fd1f6b58310789918483f.jpg" for 127.0.0.1 at 2016-02-13 21:13:32 -0200
+
+
+Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28322b2b7dc2399f3cae237.jpg" for 127.0.0.1 at 2016-02-13 21:13:32 -0200
+
+
+Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-02-13 21:13:32 -0200
+
+
+Started GET "/assets/message03-d8361a075ae8b86c8995b2ac0ceee563441b6ee4c776859f09c04e6e79b35685.jpg" for 127.0.0.1 at 2016-02-13 21:13:32 -0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-13 21:26:51 -0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (121.0ms)
+Completed 200 OK in 3859ms (Views: 3858.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/application.self-de1abddcd14fc308be3aa7c7127860dd2ffaa805c326f09164a65734f87e316f.css?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap/affix.self-f7aef9d98ee5ece34a6a92a6a15bba777d93e8d908b75c95a85088277f394200.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap/button.self-d19f3e2bcd3a7a4d75c11b9141b3fabd2c11987da1e99c85548ec3ecf8db30c3.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap/alert.self-896ab026e6823f5cef2441e07dac53d0692a5b772ac58b1ce20aa624c342d3f4.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap/carousel.self-b2e5e14483e6c31343a83861b7d487620f143d6fc2d07d5ae7544b6b225ba6be.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap/collapse.self-93820e9b486e375a7fb4477602def3a6f8381fa6d50938d5378297ffbe4a1248.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-30536ae4d54b2685c26b5787ed0eb549a9075717fe690cce6270873bedf2df00.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap/transition.self-9616c4e856b57659b67da3c6f2adcd584b5601ef4bebcdadab8ebb387d80bb25.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap/tab.self-9b77df34cbbb08ec93a806d6cdb741f04e3dbf3389978a0679146f2d2987bc89.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap/modal.self-bcfe54f3132bf16a8c5ce4289e47eba488f6522a08f49f378a037061c6c7aa4c.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-3aa41fbe871573b34e0ebddf31598cd5a11a9841ca85f90934ea46326e46626d.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-c5c6ed008955656d345067e9821d79f1216b8383134d08465d4aa1a33a2b93b4.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/bootstrap/popover.self-b73e9c9111d01148e24bbc46e096782e024dc5db630e7078cf11ed2587ef8551.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2016-02-13 21:26:55 -0200
+
+
+Started GET "/assets/logo-987383ad4c9b1e0a4777464a037e5e14ac772a092a3af78ada1b3076d0116be9.jpg" for 127.0.0.1 at 2016-02-13 21:26:56 -0200
+
+
+Started GET "/assets/wave01-60p-c5fce455dfdc296e89f958c35abcf18b965869b5d6b7c831e35446b5ce659fca.jpg" for 127.0.0.1 at 2016-02-13 21:26:56 -0200
+
+
+Started GET "/assets/freedon01-60p-52b1d03ab5b7b1344c7d87f94d16a765ea4865a9636d64a7a6a16afa9abea88a.jpg" for 127.0.0.1 at 2016-02-13 21:26:56 -0200
+
+
+Started GET "/assets/mountain01-74d0d3a431ab88ede618c4b8518d69f5e5a326f6005302c1d70779f76b89870b.jpg" for 127.0.0.1 at 2016-02-13 21:26:56 -0200
+
+
+Started GET "/assets/reach01-bd0c9d6bd60ac06f286fa4577d23147a7c358af56d6fc215721923f2af06455b.jpg" for 127.0.0.1 at 2016-02-13 21:26:56 -0200
+
+
+Started GET "/assets/bible_n_prayer-ea037e31cd963a0b0a8ad4718ac4feb4d58256bdac7e2e6e164a8a833a226461.jpg" for 127.0.0.1 at 2016-02-13 21:26:56 -0200
+
+
+Started GET "/assets/serve01-bfa0a3cf830d39c97d77426412d7bb807caa3c968f5857ab142317a1d3961ab1.jpg" for 127.0.0.1 at 2016-02-13 21:26:56 -0200
+
+
+Started GET "/assets/cup-of-tea-4b75703542b777437f0a31a6fd16f15815b97b6f8d8fd1f6b58310789918483f.jpg" for 127.0.0.1 at 2016-02-13 21:26:56 -0200
+
+
+Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28322b2b7dc2399f3cae237.jpg" for 127.0.0.1 at 2016-02-13 21:26:56 -0200
+
+
+Started GET "/assets/Tabernacle-937dcc06c13636c39de0d798ff4aed557ab71f9ede0cfc7a4fe57fa3d10bfc7a.jpg" for 127.0.0.1 at 2016-02-13 21:26:56 -0200
+
+
+Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-02-13 21:26:56 -0200
+
+
+Started GET "/assets/message03-d8361a075ae8b86c8995b2ac0ceee563441b6ee4c776859f09c04e6e79b35685.jpg" for 127.0.0.1 at 2016-02-13 21:26:56 -0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-13 21:27:59 -0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (122.8ms)
+Completed 200 OK in 3837ms (Views: 3836.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-13 21:28:02 -0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:02 -0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:02 -0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:02 -0200
+
+
+Started GET "/assets/application.self-6578acc30f1ee6f2090ec6e2ddd0596c4e7efdaf35f23f3afc0def1ed0bd7ff4.css?body=1" for 127.0.0.1 at 2016-02-13 21:28:02 -0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap/affix.self-f7aef9d98ee5ece34a6a92a6a15bba777d93e8d908b75c95a85088277f394200.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap/alert.self-896ab026e6823f5cef2441e07dac53d0692a5b772ac58b1ce20aa624c342d3f4.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap/button.self-d19f3e2bcd3a7a4d75c11b9141b3fabd2c11987da1e99c85548ec3ecf8db30c3.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap/carousel.self-b2e5e14483e6c31343a83861b7d487620f143d6fc2d07d5ae7544b6b225ba6be.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap/collapse.self-93820e9b486e375a7fb4477602def3a6f8381fa6d50938d5378297ffbe4a1248.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap/tab.self-9b77df34cbbb08ec93a806d6cdb741f04e3dbf3389978a0679146f2d2987bc89.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap/modal.self-bcfe54f3132bf16a8c5ce4289e47eba488f6522a08f49f378a037061c6c7aa4c.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap/transition.self-9616c4e856b57659b67da3c6f2adcd584b5601ef4bebcdadab8ebb387d80bb25.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-30536ae4d54b2685c26b5787ed0eb549a9075717fe690cce6270873bedf2df00.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-c5c6ed008955656d345067e9821d79f1216b8383134d08465d4aa1a33a2b93b4.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-3aa41fbe871573b34e0ebddf31598cd5a11a9841ca85f90934ea46326e46626d.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap/popover.self-b73e9c9111d01148e24bbc46e096782e024dc5db630e7078cf11ed2587ef8551.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/logo-987383ad4c9b1e0a4777464a037e5e14ac772a092a3af78ada1b3076d0116be9.jpg" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/wave01-60p-c5fce455dfdc296e89f958c35abcf18b965869b5d6b7c831e35446b5ce659fca.jpg" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/freedon01-60p-52b1d03ab5b7b1344c7d87f94d16a765ea4865a9636d64a7a6a16afa9abea88a.jpg" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/mountain01-74d0d3a431ab88ede618c4b8518d69f5e5a326f6005302c1d70779f76b89870b.jpg" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/reach01-bd0c9d6bd60ac06f286fa4577d23147a7c358af56d6fc215721923f2af06455b.jpg" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/bible_n_prayer-ea037e31cd963a0b0a8ad4718ac4feb4d58256bdac7e2e6e164a8a833a226461.jpg" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/serve01-bfa0a3cf830d39c97d77426412d7bb807caa3c968f5857ab142317a1d3961ab1.jpg" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/cup-of-tea-4b75703542b777437f0a31a6fd16f15815b97b6f8d8fd1f6b58310789918483f.jpg" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28322b2b7dc2399f3cae237.jpg" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/Tabernacle-937dcc06c13636c39de0d798ff4aed557ab71f9ede0cfc7a4fe57fa3d10bfc7a.jpg" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/assets/message03-d8361a075ae8b86c8995b2ac0ceee563441b6ee4c776859f09c04e6e79b35685.jpg" for 127.0.0.1 at 2016-02-13 21:28:03 -0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-13 21:32:48 -0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (60.2ms)
+Completed 200 OK in 3789ms (Views: 3788.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/application.self-0145cac21385ead4c5246e05a1e8d2d492031b5ba7a5f78267b62f663b4b6e37.css?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/bootstrap/affix.self-f7aef9d98ee5ece34a6a92a6a15bba777d93e8d908b75c95a85088277f394200.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/bootstrap/alert.self-896ab026e6823f5cef2441e07dac53d0692a5b772ac58b1ce20aa624c342d3f4.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/bootstrap/button.self-d19f3e2bcd3a7a4d75c11b9141b3fabd2c11987da1e99c85548ec3ecf8db30c3.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/bootstrap/carousel.self-b2e5e14483e6c31343a83861b7d487620f143d6fc2d07d5ae7544b6b225ba6be.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/bootstrap/collapse.self-93820e9b486e375a7fb4477602def3a6f8381fa6d50938d5378297ffbe4a1248.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-30536ae4d54b2685c26b5787ed0eb549a9075717fe690cce6270873bedf2df00.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/bootstrap/tab.self-9b77df34cbbb08ec93a806d6cdb741f04e3dbf3389978a0679146f2d2987bc89.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:52 -0200
+
+
+Started GET "/assets/bootstrap/transition.self-9616c4e856b57659b67da3c6f2adcd584b5601ef4bebcdadab8ebb387d80bb25.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:53 -0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-c5c6ed008955656d345067e9821d79f1216b8383134d08465d4aa1a33a2b93b4.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:53 -0200
+
+
+Started GET "/assets/bootstrap/modal.self-bcfe54f3132bf16a8c5ce4289e47eba488f6522a08f49f378a037061c6c7aa4c.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:53 -0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-3aa41fbe871573b34e0ebddf31598cd5a11a9841ca85f90934ea46326e46626d.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:53 -0200
+
+
+Started GET "/assets/bootstrap/popover.self-b73e9c9111d01148e24bbc46e096782e024dc5db630e7078cf11ed2587ef8551.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:53 -0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:53 -0200
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2016-02-13 21:32:53 -0200
+
+
+Started GET "/assets/logo-987383ad4c9b1e0a4777464a037e5e14ac772a092a3af78ada1b3076d0116be9.jpg" for 127.0.0.1 at 2016-02-13 21:32:54 -0200
+
+
+Started GET "/assets/wave01-60p-c5fce455dfdc296e89f958c35abcf18b965869b5d6b7c831e35446b5ce659fca.jpg" for 127.0.0.1 at 2016-02-13 21:32:54 -0200
+
+
+Started GET "/assets/freedon01-60p-52b1d03ab5b7b1344c7d87f94d16a765ea4865a9636d64a7a6a16afa9abea88a.jpg" for 127.0.0.1 at 2016-02-13 21:32:54 -0200
+
+
+Started GET "/assets/reach01-bd0c9d6bd60ac06f286fa4577d23147a7c358af56d6fc215721923f2af06455b.jpg" for 127.0.0.1 at 2016-02-13 21:32:54 -0200
+
+
+Started GET "/assets/mountain01-74d0d3a431ab88ede618c4b8518d69f5e5a326f6005302c1d70779f76b89870b.jpg" for 127.0.0.1 at 2016-02-13 21:32:54 -0200
+
+
+Started GET "/assets/bible_n_prayer-ea037e31cd963a0b0a8ad4718ac4feb4d58256bdac7e2e6e164a8a833a226461.jpg" for 127.0.0.1 at 2016-02-13 21:32:54 -0200
+
+
+Started GET "/assets/cup-of-tea-4b75703542b777437f0a31a6fd16f15815b97b6f8d8fd1f6b58310789918483f.jpg" for 127.0.0.1 at 2016-02-13 21:32:54 -0200
+
+
+Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28322b2b7dc2399f3cae237.jpg" for 127.0.0.1 at 2016-02-13 21:32:54 -0200
+
+
+Started GET "/assets/serve01-bfa0a3cf830d39c97d77426412d7bb807caa3c968f5857ab142317a1d3961ab1.jpg" for 127.0.0.1 at 2016-02-13 21:32:54 -0200
+
+
+Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-02-13 21:32:54 -0200
+
+
+Started GET "/assets/Tabernacle-937dcc06c13636c39de0d798ff4aed557ab71f9ede0cfc7a4fe57fa3d10bfc7a.jpg" for 127.0.0.1 at 2016-02-13 21:32:54 -0200
+
+
+Started GET "/assets/message03-d8361a075ae8b86c8995b2ac0ceee563441b6ee4c776859f09c04e6e79b35685.jpg" for 127.0.0.1 at 2016-02-13 21:32:54 -0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-13 21:33:25 -0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (136.0ms)
+Completed 200 OK in 338ms (Views: 337.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/application.self-0145cac21385ead4c5246e05a1e8d2d492031b5ba7a5f78267b62f663b4b6e37.css?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap/alert.self-896ab026e6823f5cef2441e07dac53d0692a5b772ac58b1ce20aa624c342d3f4.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap/affix.self-f7aef9d98ee5ece34a6a92a6a15bba777d93e8d908b75c95a85088277f394200.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap/button.self-d19f3e2bcd3a7a4d75c11b9141b3fabd2c11987da1e99c85548ec3ecf8db30c3.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap/collapse.self-93820e9b486e375a7fb4477602def3a6f8381fa6d50938d5378297ffbe4a1248.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap/carousel.self-b2e5e14483e6c31343a83861b7d487620f143d6fc2d07d5ae7544b6b225ba6be.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-30536ae4d54b2685c26b5787ed0eb549a9075717fe690cce6270873bedf2df00.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap/tab.self-9b77df34cbbb08ec93a806d6cdb741f04e3dbf3389978a0679146f2d2987bc89.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap/transition.self-9616c4e856b57659b67da3c6f2adcd584b5601ef4bebcdadab8ebb387d80bb25.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap/modal.self-bcfe54f3132bf16a8c5ce4289e47eba488f6522a08f49f378a037061c6c7aa4c.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-3aa41fbe871573b34e0ebddf31598cd5a11a9841ca85f90934ea46326e46626d.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-c5c6ed008955656d345067e9821d79f1216b8383134d08465d4aa1a33a2b93b4.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap/popover.self-b73e9c9111d01148e24bbc46e096782e024dc5db630e7078cf11ed2587ef8551.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/logo-987383ad4c9b1e0a4777464a037e5e14ac772a092a3af78ada1b3076d0116be9.jpg" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/wave01-60p-c5fce455dfdc296e89f958c35abcf18b965869b5d6b7c831e35446b5ce659fca.jpg" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/freedon01-60p-52b1d03ab5b7b1344c7d87f94d16a765ea4865a9636d64a7a6a16afa9abea88a.jpg" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/mountain01-74d0d3a431ab88ede618c4b8518d69f5e5a326f6005302c1d70779f76b89870b.jpg" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/bible_n_prayer-ea037e31cd963a0b0a8ad4718ac4feb4d58256bdac7e2e6e164a8a833a226461.jpg" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/reach01-bd0c9d6bd60ac06f286fa4577d23147a7c358af56d6fc215721923f2af06455b.jpg" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/serve01-bfa0a3cf830d39c97d77426412d7bb807caa3c968f5857ab142317a1d3961ab1.jpg" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28322b2b7dc2399f3cae237.jpg" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/Tabernacle-937dcc06c13636c39de0d798ff4aed557ab71f9ede0cfc7a4fe57fa3d10bfc7a.jpg" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/cup-of-tea-4b75703542b777437f0a31a6fd16f15815b97b6f8d8fd1f6b58310789918483f.jpg" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/assets/message03-d8361a075ae8b86c8995b2ac0ceee563441b6ee4c776859f09c04e6e79b35685.jpg" for 127.0.0.1 at 2016-02-13 21:33:26 -0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-13 21:33:50 -0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (104.4ms)
+Completed 200 OK in 3786ms (Views: 3782.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/application.self-515557aced3cf6af4c1f2f6b89dba33f59ba67c2ac28000b9f0bdee64a16ce0b.css?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap/affix.self-f7aef9d98ee5ece34a6a92a6a15bba777d93e8d908b75c95a85088277f394200.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap/alert.self-896ab026e6823f5cef2441e07dac53d0692a5b772ac58b1ce20aa624c342d3f4.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap/button.self-d19f3e2bcd3a7a4d75c11b9141b3fabd2c11987da1e99c85548ec3ecf8db30c3.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap/carousel.self-b2e5e14483e6c31343a83861b7d487620f143d6fc2d07d5ae7544b6b225ba6be.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap/collapse.self-93820e9b486e375a7fb4477602def3a6f8381fa6d50938d5378297ffbe4a1248.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-30536ae4d54b2685c26b5787ed0eb549a9075717fe690cce6270873bedf2df00.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap/transition.self-9616c4e856b57659b67da3c6f2adcd584b5601ef4bebcdadab8ebb387d80bb25.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap/tab.self-9b77df34cbbb08ec93a806d6cdb741f04e3dbf3389978a0679146f2d2987bc89.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-c5c6ed008955656d345067e9821d79f1216b8383134d08465d4aa1a33a2b93b4.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap/modal.self-bcfe54f3132bf16a8c5ce4289e47eba488f6522a08f49f378a037061c6c7aa4c.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap/popover.self-b73e9c9111d01148e24bbc46e096782e024dc5db630e7078cf11ed2587ef8551.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-3aa41fbe871573b34e0ebddf31598cd5a11a9841ca85f90934ea46326e46626d.js?body=1" for 127.0.0.1 at 2016-02-13 21:33:54 -0200
+
+
+Started GET "/assets/wave01-60p-c5fce455dfdc296e89f958c35abcf18b965869b5d6b7c831e35446b5ce659fca.jpg" for 127.0.0.1 at 2016-02-13 21:33:55 -0200
+
+
+Started GET "/assets/logo-987383ad4c9b1e0a4777464a037e5e14ac772a092a3af78ada1b3076d0116be9.jpg" for 127.0.0.1 at 2016-02-13 21:33:55 -0200
+
+
+Started GET "/assets/bible_n_prayer-ea037e31cd963a0b0a8ad4718ac4feb4d58256bdac7e2e6e164a8a833a226461.jpg" for 127.0.0.1 at 2016-02-13 21:33:55 -0200
+
+
+Started GET "/assets/reach01-bd0c9d6bd60ac06f286fa4577d23147a7c358af56d6fc215721923f2af06455b.jpg" for 127.0.0.1 at 2016-02-13 21:33:55 -0200
+
+
+Started GET "/assets/freedon01-60p-52b1d03ab5b7b1344c7d87f94d16a765ea4865a9636d64a7a6a16afa9abea88a.jpg" for 127.0.0.1 at 2016-02-13 21:33:55 -0200
+
+
+Started GET "/assets/mountain01-74d0d3a431ab88ede618c4b8518d69f5e5a326f6005302c1d70779f76b89870b.jpg" for 127.0.0.1 at 2016-02-13 21:33:55 -0200
+
+
+Started GET "/assets/serve01-bfa0a3cf830d39c97d77426412d7bb807caa3c968f5857ab142317a1d3961ab1.jpg" for 127.0.0.1 at 2016-02-13 21:33:55 -0200
+
+
+Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28322b2b7dc2399f3cae237.jpg" for 127.0.0.1 at 2016-02-13 21:33:55 -0200
+
+
+Started GET "/assets/cup-of-tea-4b75703542b777437f0a31a6fd16f15815b97b6f8d8fd1f6b58310789918483f.jpg" for 127.0.0.1 at 2016-02-13 21:33:55 -0200
+
+
+Started GET "/assets/Tabernacle-937dcc06c13636c39de0d798ff4aed557ab71f9ede0cfc7a4fe57fa3d10bfc7a.jpg" for 127.0.0.1 at 2016-02-13 21:33:55 -0200
+
+
+Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-02-13 21:33:55 -0200
+
+
+Started GET "/assets/message03-d8361a075ae8b86c8995b2ac0ceee563441b6ee4c776859f09c04e6e79b35685.jpg" for 127.0.0.1 at 2016-02-13 21:33:55 -0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-13 21:34:18 -0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (59.4ms)
+Completed 200 OK in 3737ms (Views: 3736.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/application.self-fec3d1ef10b388bd55380a3fa4120b78f6d4aab68e13b2605be9c96c67f3074f.css?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap/affix.self-f7aef9d98ee5ece34a6a92a6a15bba777d93e8d908b75c95a85088277f394200.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap/alert.self-896ab026e6823f5cef2441e07dac53d0692a5b772ac58b1ce20aa624c342d3f4.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap/button.self-d19f3e2bcd3a7a4d75c11b9141b3fabd2c11987da1e99c85548ec3ecf8db30c3.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap/collapse.self-93820e9b486e375a7fb4477602def3a6f8381fa6d50938d5378297ffbe4a1248.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap/carousel.self-b2e5e14483e6c31343a83861b7d487620f143d6fc2d07d5ae7544b6b225ba6be.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap/transition.self-9616c4e856b57659b67da3c6f2adcd584b5601ef4bebcdadab8ebb387d80bb25.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap/tab.self-9b77df34cbbb08ec93a806d6cdb741f04e3dbf3389978a0679146f2d2987bc89.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap/modal.self-bcfe54f3132bf16a8c5ce4289e47eba488f6522a08f49f378a037061c6c7aa4c.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-30536ae4d54b2685c26b5787ed0eb549a9075717fe690cce6270873bedf2df00.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-c5c6ed008955656d345067e9821d79f1216b8383134d08465d4aa1a33a2b93b4.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-3aa41fbe871573b34e0ebddf31598cd5a11a9841ca85f90934ea46326e46626d.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/bootstrap/popover.self-b73e9c9111d01148e24bbc46e096782e024dc5db630e7078cf11ed2587ef8551.js?body=1" for 127.0.0.1 at 2016-02-13 21:34:22 -0200
+
+
+Started GET "/assets/logo-987383ad4c9b1e0a4777464a037e5e14ac772a092a3af78ada1b3076d0116be9.jpg" for 127.0.0.1 at 2016-02-13 21:34:23 -0200
+
+
+Started GET "/assets/freedon01-60p-52b1d03ab5b7b1344c7d87f94d16a765ea4865a9636d64a7a6a16afa9abea88a.jpg" for 127.0.0.1 at 2016-02-13 21:34:23 -0200
+
+
+Started GET "/assets/mountain01-74d0d3a431ab88ede618c4b8518d69f5e5a326f6005302c1d70779f76b89870b.jpg" for 127.0.0.1 at 2016-02-13 21:34:23 -0200
+
+
+Started GET "/assets/bible_n_prayer-ea037e31cd963a0b0a8ad4718ac4feb4d58256bdac7e2e6e164a8a833a226461.jpg" for 127.0.0.1 at 2016-02-13 21:34:23 -0200
+
+
+Started GET "/assets/reach01-bd0c9d6bd60ac06f286fa4577d23147a7c358af56d6fc215721923f2af06455b.jpg" for 127.0.0.1 at 2016-02-13 21:34:23 -0200
+
+
+Started GET "/assets/wave01-60p-c5fce455dfdc296e89f958c35abcf18b965869b5d6b7c831e35446b5ce659fca.jpg" for 127.0.0.1 at 2016-02-13 21:34:23 -0200
+
+
+Started GET "/assets/serve01-bfa0a3cf830d39c97d77426412d7bb807caa3c968f5857ab142317a1d3961ab1.jpg" for 127.0.0.1 at 2016-02-13 21:34:23 -0200
+
+
+Started GET "/assets/cup-of-tea-4b75703542b777437f0a31a6fd16f15815b97b6f8d8fd1f6b58310789918483f.jpg" for 127.0.0.1 at 2016-02-13 21:34:23 -0200
+
+
+Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28322b2b7dc2399f3cae237.jpg" for 127.0.0.1 at 2016-02-13 21:34:23 -0200
+
+
+Started GET "/assets/Tabernacle-937dcc06c13636c39de0d798ff4aed557ab71f9ede0cfc7a4fe57fa3d10bfc7a.jpg" for 127.0.0.1 at 2016-02-13 21:34:23 -0200
+
+
+Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-02-13 21:34:23 -0200
+
+
+Started GET "/assets/message03-d8361a075ae8b86c8995b2ac0ceee563441b6ee4c776859f09c04e6e79b35685.jpg" for 127.0.0.1 at 2016-02-13 21:34:23 -0200
+
+
+Started GET "/" for 127.0.0.1 at 2016-02-13 21:35:00 -0200
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (63.6ms)
+Completed 200 OK in 3471ms (Views: 3470.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/pages.self-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/application.self-7c2189eeac1df0fe3e33f4ce34f03d58f70c170f5daa5720ae0268ff2357c716.css?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/jquery.self-a714331225dda820228db323939889f149aec0127aeb06255646b616ba1ca419.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/jquery_ujs.self-d456baa54c1fa6be2ec3711f0a72ddf7a5b2f34a6b4f515f33767d6207b7d4b3.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/pages.self-877aef30ae1b040ab8a3aba4e3e309a11d7f2612f44dde450b5c157aa5f95c05.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/turbolinks.self-c37727e9bd6b2735da5c311aa83fead54ed0be6cc8bd9a65309e9c5abe2cbfff.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap/affix.self-f7aef9d98ee5ece34a6a92a6a15bba777d93e8d908b75c95a85088277f394200.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap/carousel.self-b2e5e14483e6c31343a83861b7d487620f143d6fc2d07d5ae7544b6b225ba6be.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap/button.self-d19f3e2bcd3a7a4d75c11b9141b3fabd2c11987da1e99c85548ec3ecf8db30c3.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap/alert.self-896ab026e6823f5cef2441e07dac53d0692a5b772ac58b1ce20aa624c342d3f4.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap/tab.self-9b77df34cbbb08ec93a806d6cdb741f04e3dbf3389978a0679146f2d2987bc89.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap/dropdown.self-30536ae4d54b2685c26b5787ed0eb549a9075717fe690cce6270873bedf2df00.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap/transition.self-9616c4e856b57659b67da3c6f2adcd584b5601ef4bebcdadab8ebb387d80bb25.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap/collapse.self-93820e9b486e375a7fb4477602def3a6f8381fa6d50938d5378297ffbe4a1248.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap/scrollspy.self-c5c6ed008955656d345067e9821d79f1216b8383134d08465d4aa1a33a2b93b4.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap/modal.self-bcfe54f3132bf16a8c5ce4289e47eba488f6522a08f49f378a037061c6c7aa4c.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap/popover.self-b73e9c9111d01148e24bbc46e096782e024dc5db630e7078cf11ed2587ef8551.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap/tooltip.self-3aa41fbe871573b34e0ebddf31598cd5a11a9841ca85f90934ea46326e46626d.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/bootstrap-sprockets.self-fbfa5ad7d9aa0afe439ec4ff3883acc4cb92b62cb67c40d674320c9aa1d4642d.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/application.self-7862a8a8b42407b4741a1adeeea35f0d13ddc4f702ec532adb0674491d296495.js?body=1" for 127.0.0.1 at 2016-02-13 21:35:04 -0200
+
+
+Started GET "/assets/wave01-60p-c5fce455dfdc296e89f958c35abcf18b965869b5d6b7c831e35446b5ce659fca.jpg" for 127.0.0.1 at 2016-02-13 21:35:05 -0200
+
+
+Started GET "/assets/freedon01-60p-52b1d03ab5b7b1344c7d87f94d16a765ea4865a9636d64a7a6a16afa9abea88a.jpg" for 127.0.0.1 at 2016-02-13 21:35:05 -0200
+
+
+Started GET "/assets/logo-987383ad4c9b1e0a4777464a037e5e14ac772a092a3af78ada1b3076d0116be9.jpg" for 127.0.0.1 at 2016-02-13 21:35:05 -0200
+
+
+Started GET "/assets/mountain01-74d0d3a431ab88ede618c4b8518d69f5e5a326f6005302c1d70779f76b89870b.jpg" for 127.0.0.1 at 2016-02-13 21:35:05 -0200
+
+
+Started GET "/assets/bible_n_prayer-ea037e31cd963a0b0a8ad4718ac4feb4d58256bdac7e2e6e164a8a833a226461.jpg" for 127.0.0.1 at 2016-02-13 21:35:05 -0200
+
+
+Started GET "/assets/reach01-bd0c9d6bd60ac06f286fa4577d23147a7c358af56d6fc215721923f2af06455b.jpg" for 127.0.0.1 at 2016-02-13 21:35:05 -0200
+
+
+Started GET "/assets/serve01-bfa0a3cf830d39c97d77426412d7bb807caa3c968f5857ab142317a1d3961ab1.jpg" for 127.0.0.1 at 2016-02-13 21:35:05 -0200
+
+
+Started GET "/assets/cup-of-tea-4b75703542b777437f0a31a6fd16f15815b97b6f8d8fd1f6b58310789918483f.jpg" for 127.0.0.1 at 2016-02-13 21:35:05 -0200
+
+
+Started GET "/assets/christmas_cross-1ab1ecace302e5037f20886f91d3f255df70573ad28322b2b7dc2399f3cae237.jpg" for 127.0.0.1 at 2016-02-13 21:35:05 -0200
+
+
+Started GET "/assets/Tabernacle-937dcc06c13636c39de0d798ff4aed557ab71f9ede0cfc7a4fe57fa3d10bfc7a.jpg" for 127.0.0.1 at 2016-02-13 21:35:05 -0200
+
+
+Started GET "/assets/message03-d8361a075ae8b86c8995b2ac0ceee563441b6ee4c776859f09c04e6e79b35685.jpg" for 127.0.0.1 at 2016-02-13 21:35:05 -0200
+
+
+Started GET "/assets/ny01-e02a3fb0e5669142231b66b4a857d7ba7300615eda5f1146e1d4734049c79a88.jpg" for 127.0.0.1 at 2016-02-13 21:35:05 -0200
