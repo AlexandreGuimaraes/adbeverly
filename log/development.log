@@ -40648,3 +40648,10 @@ DEPRECATION WARNING: `#timestamps` was called without specifying an option for `
   [1m[35mSQL (0.2ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20160214195340"]]
   [1m[36m (41.9ms)[0m  [1mcommit transaction[0m
   [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+
+
+Started GET "/" for ::1 at 2016-03-30 16:05:45 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (929.4ms)
+Completed 200 OK in 1012ms (Views: 1002.6ms | ActiveRecord: 0.0ms)
