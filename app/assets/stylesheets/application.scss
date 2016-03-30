@@ -37,10 +37,17 @@ body {
 /* Overwrite default styles of h3 and h4 */
 h3, h4 {
     margin: 10px 0 30px 0;
+<<<<<<< HEAD
     letter-spacing: 2px;
     font-size: 30px;
     color: #6b6b6b;
     font-weight: bold;
+=======
+    letter-spacing: 2px; 
+    font-size: 30px;
+    color: #6b6b6b;
+    font-weight: bold; 
+>>>>>>> 5663bed9460607ef8ce9fd1272b15f5f13429fe4
 }
 
 /* Remove rounded borders on input fields */
@@ -63,9 +70,14 @@ textarea {
 
 .carousel-inner img {
     -webkit-filter: grayscale(0%);
+<<<<<<< HEAD
     filter: grayscale(0%); /* make all photos black and white */
     width: 100%; /* Set width to 100% */
     height: auto;;
+=======
+    filter: grayscale(0%); /* make all photos black and white */ 
+    width: 100%; /* Set width to 100% */
+>>>>>>> 5663bed9460607ef8ce9fd1272b15f5f13429fe4
     margin: auto;
 }
 
@@ -193,12 +205,15 @@ textarea {
     color: #777;
 }
 
+<<<<<<< HEAD
 #location {
   background-color: #f3f3f3;
   width: 100%;
 }
 
 
+=======
+>>>>>>> 5663bed9460607ef8ce9fd1272b15f5f13429fe4
 /* ########## Google Maps ########## */
 #googleMap {
     width: 100%; /* Span the entire width of the screen */
@@ -211,7 +226,11 @@ textarea {
 
 
 /* ########## Navbar ########## */
+<<<<<<< HEAD
 /* Add a dark background color with a little bit see-through */
+=======
+/* Add a dark background color with a little bit see-through */ 
+>>>>>>> 5663bed9460607ef8ce9fd1272b15f5f13429fe4
 .navbar {
     margin-bottom: 0;
     background-color: #ffffff;
@@ -224,7 +243,11 @@ textarea {
 }
 
 /* Add a gray color to all navbar links */
+<<<<<<< HEAD
 .navbar li a, .navbar .navbar-brand {
+=======
+.navbar li a, .navbar .navbar-brand { 
+>>>>>>> 5663bed9460607ef8ce9fd1272b15f5f13429fe4
     color: #353535 !important;
 }
 
@@ -293,3 +316,12 @@ footer a:hover {
     color: #777;
     text-decoration: none;
 }
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+>>>>>>> 5663bed9460607ef8ce9fd1272b15f5f13429fe4
