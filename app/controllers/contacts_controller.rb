@@ -1,6 +1,5 @@
 class ContactsController < ApplicationController
   def new
-<<<<<<< HEAD
     @contact = Contact.new
   end
 
@@ -18,11 +17,4 @@ class ContactsController < ApplicationController
       redirect_to new_contact_path
     end
   end
-
-=======
-  end
-  
-  def create
-  end
->>>>>>> 5663bed9460607ef8ce9fd1272b15f5f13429fe4
 end
