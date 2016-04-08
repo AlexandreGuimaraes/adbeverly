@@ -17,6 +17,7 @@ end
 
 #Add Bootstrap
 gem 'bootstrap-sass', '3.3.5'
+gem "font-awesome-rails"
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
@@ -32,6 +33,7 @@ gem 'coffee-rails', '~> 4.1.0'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
+gem 'jquery-turbolinks'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
