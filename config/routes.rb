@@ -4,7 +4,7 @@ Rails.application.routes.draw do
 
   get '/about' => 'pages#about'
   get '/photos' => 'pages#photos'
-  get '/photos01' => 'pages#photos01'
+  get '/live' => 'pages#live'
   get '/videos' => 'pages#videos'
   resources :contacts
 

@@ -11,7 +11,7 @@ class PagesController < ApplicationController
 
   end
 
-  def photos01
+  def live
 
   end
 
